@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorTEBDark">#1d1850</color>
+    <color name="colorTEB">#1462af</color>
+    <color name="colorBackgroundPortada">#cf6ef5</color>
+    <color name="colorAfirmacionDiaria1">#ffd700</color>
+    <color name="colorMensaje1">#ffec8b</color>
+</resources>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aloha</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="navigation_drawer_close">Cerrar Menú</string>
+    <string name="navigation_drawer_open">Abrir Menú</string>
+    <string name="AfirmacionOro">Afirmaciones de Fortuna</string>
+    <string name="AfirmacionAhora">Afirmación del Ahora</string>
+    <string name="InstruccionesTexto">Instrucciones</string>
+    <string name="Compartir">Compartir</string>
+    <string-array name="arregloMensajes">
+        <item>Abrazo el poder divino que hay en mí.</item>
+        <item>Permito que la luz me guíe.</item>
+        <item>Soy un ser agradecido con mis oportunidades.</item>
+        <item>Soy una persona sana y llena de energía.</item>
+        <item>Soy un ser amado y bendecido.</item>
+        <item>Aprecio la dulzura de la vida.</item>
+        <item>Vivo en armonía con la naturaleza.</item>
+        <item>Soy un ser puro e incorruptible.</item>
+        <item>Soy un ser poderoso y bendecido.</item>
+        <item>Mi corazón está lleno de amor y se expande.</item>
+        <item>Mi alegría se manifiesta y embellece al mundo.</item>
+        <item>Todas mis células irradian salud y amor.</item>
+        <item>Aprecio  los milagros a mi alrededor.</item>
+        <item>Permito a mi alma volar en libertad.</item>
+        <item>Vivo en un espacio sagrado.</item>
+        <item>Honro la luz en mi interior.</item>
+        <item>La abundancia se manifiesta en mi vida.</item>
+        <item>Agradezco los mágicos momentos de cada día.</item>
+        <item>Respiro abundancia y exhalo gratitud.</item>
+        <item>Trato mi cuerpo con amor y cuidado.</item>
+        <item>Vivo el presente y soy feliz.</item>
+        <item>Soy salud radiante.</item>
+        <item>Cuido con amor mi hogar.</item>
+        <item>En la paz encuentro mi fortaleza.</item>
+        <item>Tomo tiempo para cuidar de mi y relajarme.</item>
+        <item>Digo sí a la vida.</item>
+        <item>La naturaleza me inspira.</item>
+        <item>Siento la alegría de vivir.</item>
+        <item>Me permito dar y recibir amor.</item>
+        <item>Respiro la energía del amor.</item>
+        <item>Permito que mi belleza interior se manifieste.</item>
+        <item>Me tomo tiempo para soñar.</item>
+        <item>Soy luz radiante sin límite.</item>
+        <item>Cuido  mi niño interior.</item>
+        <item>Permito que mi luz brille.</item>
+        <item>Mi inocencia me acerca a Dios.</item>
+        <item>Tengo pensamientos de compasión y amor.</item>
+        <item>Soy amor en total expresión.</item>
+        <item>Celebro la vida cada mañana.</item>
+        <item>Me permito ser feliz.</item>
+        <item>Agradezco  mi día al anochecer.</item>
+        <item>Es seguro compartir mis sentimientos.</item>
+        <item>Soy sana y llena de energía.</item>
+        <item>Merezco relaciones amorosas.</item>
+    </string-array>
+
+    <string name="MensajeDiario">Mensaje del Ahora</string>
+    <string name="contentDescPortada">Portada Aloha</string>
+
+    <string name="DrawerMenu1">Aloha</string>
+    <string name="DrawerMenu2">Mensajes para Florecer</string>
+
+    <string name="Instrucciones">
+        En el lenguaje hawaiiano, Aloha quiere decir mucho más que simplemente "hola",
+
+"hasta luego" o "amor". Su sentido más profundo implica "la alegría de compartir
+
+energía vital en el presente " y reconocer la “Divinidad que hay en ti”
+
+Es como el Namasté de Occidente.
+
+En la medida en que se comparte esta energía uno se sintoniza con el Poder Divino,
+
+al que los hawaianos llaman mana. El usar con amor este poder increíble es el
+
+secreto que nos lleva al logro de la verdadera salud, felicidad, prosperidad y éxito.
+
+La manera de sintonizarse con este Poder y de hacer que sea efectivo es tan simple
+
+como admirar, apreciar, agradecer, bendicir y afirmar.
+
+Puedes trabajar tus afirmaciones de dos formas: Enfoca tu mente, corazón y
+
+voluntad en lo que deseas y después escoge una afirmación que es la que trabajarás
+
+durante 7 días repitiéndola 108 veces cada día, de igual manera una segunda y
+
+tercera afirmación, para completar 21 días.
+
+La otra forma es dejar que el Universo te ayude, escogiendo al azar 3 afirmaciones y
+
+en el orden que te salieron vas a trabajar con cada una 7 días, repitiéndolas 108
+
+veces para completar 21 días. No hay coincidencias, el Universo sabe que necesitas.
+
+Te puedes apoyar de un intencionario o una mala budista, ambos tienen 108
+
+cuentas, o haz una cuerda con 108 nudos, sirve igual.
+
+Con esta serie de afirmaciones, tienes un apoyo poderoso para resolver cualquier
+
+problema, cumplir cualquier meta y hacer  cualquier cambio en el estado de la
+
+mente o del cuerpo que seas corregir.
+
+Deseo de todo corazón que este juego de afirmaciones sea para tu más alto
+
+beneficio.
+
+Te amo, Aloha.
+
+Lety Neri</string>
+    <string name="switchMusica">Música</string>
+    <string name="switchMusicaResumen">Activar o desactivar la música de fondo.</string>
+
+</resources>
